@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+.Python
+build/
+dist/
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Data and Models
+data/
+datasets/
+models/
+*.pkl
+*.h5
+*.hdf5
+*.onnx
+*.pth
+*.pt
+*.tf
+*.ckpt
+
+# Logs and Outputs
+logs/
+output/
+results/
+*.log
+
+# Environment variables
+.env
+*.env
+
+# Operating System Files
+.DS_Store
+Thumbs.db
